@@ -1,4 +1,4 @@
-## Libft - Primer proyecto como estudiante de 42Madrid 🚀
+## Libft - Primer proyecto como estudiante de 42Barcelona 🚀
 ### Contenido
 * [¿Que es libft?](#que-es-libft)
 * [¿En que consiste?](#en-que-consiste)
